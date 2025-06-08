@@ -1,4 +1,4 @@
-# To Do List
+# Smart List
 
 A simple, chat-friendly Python to-do list app with persistent storage and task priorities. Great for learning, home projects, or as a starting point for your own productivity tools!
 
